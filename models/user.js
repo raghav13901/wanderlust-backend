@@ -23,7 +23,10 @@ const UserSchema = new mongoose.Schema({
     minlength: 6,
     select: false,
   },
-  city: {
+  city:{
+    type: String
+  },
+  address: {
     type: String,
   },
   resetPasswordToken: String,
