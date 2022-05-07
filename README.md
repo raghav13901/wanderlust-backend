@@ -11,7 +11,7 @@ Key Features
 Backend Deployed Link: https://wanderlust--backend.herokuapp.com/
 
 # Tech Stack
-- MongoDB (Frontend Framework)
+- MongoDB 
 - Express
 - NodeJS
 
